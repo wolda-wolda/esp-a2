@@ -4,9 +4,6 @@
 // This program simulates the operation of an arbitrary number
 // of elevators in a hotel with an arbitrary number of floors
 //
-// Group: Alexander Laurenz Fedotoff
-//
-// Author: 12309681
 //---------------------------------------------------------------------------------------------------------------------
 //
 
